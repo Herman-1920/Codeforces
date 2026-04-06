@@ -8,8 +8,4 @@ Each solution file is named according to the **Problem Name**.
 
 For example: `F. Final Boss` is saved as `F_Final_Boss.cpp`
 
-## How to Use
-```bash
-g++ -o solution Filename.cpp
-./solution
-```
+
